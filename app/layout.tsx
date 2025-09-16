@@ -17,6 +17,7 @@ export const metadata: Metadata = {
   description: "My Zone",
 };
 
+
 export default function RootLayout({
   children,
 }: Readonly<{
